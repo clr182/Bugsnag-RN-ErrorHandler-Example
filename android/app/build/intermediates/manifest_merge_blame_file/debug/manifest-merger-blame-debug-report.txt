@@ -1,0 +1,111 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reactnativeprojectworking"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/15bdc4e589bb64e4dcaaa166cbd58f1f/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/15bdc4e589bb64e4dcaaa166cbd58f1f/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.bugsnag:bugsnag-android-core:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9c2c485aea20785251113ccde4b60bcf/transformed/jetified-bugsnag-android-core-5.28.1/AndroidManifest.xml:9:5-79
+14-->[com.bugsnag:bugsnag-android-core:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9c2c485aea20785251113ccde4b60bcf/transformed/jetified-bugsnag-android-core-5.28.1/AndroidManifest.xml:9:22-76
+15
+16    <application
+16-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:6:5-27:19
+17        android:name="com.reactnativeprojectworking.MainApplication"
+17-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:7:7-38
+18        android:allowBackup="false"
+18-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:11:7-34
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.7.0] /Users/christian.rafferty/.gradle/caches/transforms-3/80b60e7e0b1cf49a8b63341e361e4722/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:9:7-41
+22        android:label="@string/app_name"
+22-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:8:7-39
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:10:7-52
+24        android:theme="@style/AppTheme"
+24-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:12:7-38
+25        android:usesCleartextTraffic="true" >
+25-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:8:9-44
+26        <activity
+26-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:11:9-111
+27            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+27-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:11:19-83
+28            android:exported="false" />
+28-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:11:84-108
+29        <activity
+29-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:13:7-24:18
+30            android:name="com.reactnativeprojectworking.MainActivity"
+30-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:14:9-37
+31            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+31-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:16:9-118
+32            android:exported="true"
+32-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:19:9-32
+33            android:label="@string/app_name"
+33-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:15:9-41
+34            android:launchMode="singleTask"
+34-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:17:9-40
+35            android:windowSoftInputMode="adjustResize" >
+35-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:18:9-51
+36            <intent-filter>
+36-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:20:9-23:25
+37                <action android:name="android.intent.action.MAIN" />
+37-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:21:13-65
+37-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:21:21-62
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:22:13-73
+39-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:22:23-70
+40            </intent-filter>
+41        </activity>
+42
+43        <meta-data
+43-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:25:7-112
+44            android:name="com.bugsnag.android.API_KEY"
+44-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:25:18-60
+45            android:value="d124c09d76146bf17c469680ecb27923" />
+45-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:25:61-109
+46        <meta-data
+46-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:26:7-90
+47            android:name="com.bugsnag.android.MAX_BREADCRUMBS"
+47-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:26:18-68
+48            android:value="500" />
+48-->/Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:26:69-88
+49
+50        <provider
+50-->[androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+51            android:name="androidx.startup.InitializationProvider"
+51-->[androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+52            android:authorities="com.reactnativeprojectworking.androidx-startup"
+52-->[androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+53            android:exported="false" >
+53-->[androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+54            <meta-data
+54-->[androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+55-->[androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+56                android:value="androidx.startup" />
+56-->[androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+57            <meta-data
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+58                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+59                android:value="androidx.startup" />
+59-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+60        </provider>
+61    </application>
+62
+63</manifest>

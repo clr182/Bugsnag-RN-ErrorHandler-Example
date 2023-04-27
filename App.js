@@ -29,20 +29,6 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 Bugsnag.start();
-// Create the error boundary...
-const ErrorBoundary = Bugsnag.getPlugin('react').createErrorBoundary(React)
-
-const onError = (event) => {
-  // callback will only run for errors caught by boundary
-}
-
-const ErrorView = ({ clearError }) =>
-  <>
-  <Text>
-    Inform users of an error in the component tree.
-  </Text>
-  <Button title="clear" onPress={clearError}>Reset</Button>
-  </>
 
 /* $FlowFixMe[missing-local-annot] The type annotation(s) required by Flow's
  * LTI update could not be added via codemod */
@@ -76,20 +62,28 @@ function triggerException() {
   Bugsnag.notify(new Error('Test error'))
 }
 
+function leaveMultipleBreadcrumbs() {
+  for(i = 0; i < 50; i++){
+    Bugsnag.leaveBreadcrumb('Button clicked')
+  }
+}
+
 const BugsnagTest = () => {
-  const [element, setElement] = useState(<></>)
 
   return (
     <View>
-//      {element}
-        <Button>{element.something.doSomething()}</Button>
-//      <Button
-//        title='Send error to Bugsnag'
-//        onPress={() => {
-//          setElement(<>Send error to Bugsnag!</>)
-//        }}
+        <Button
+          onPress={triggerException}
+          title="Trigger Exception"
+          color="#841584"
+          accessibilityLabel="Learn more about this purple button"
         />
-
+        <Button
+          onPress={leaveMultipleBreadcrumbs}
+          title="Leave breadcrumbs"
+          color="#841584"
+          accessibilityLabel="Learn more about this purple button"
+        />
     </View>
   )
 }
@@ -103,7 +97,6 @@ const App: () => Node = () => {
   };
 
   return (
-  <ErrorBoundary FallbackComponent={ErrorView} onError={onError}>
     <SafeAreaView style={backgroundStyle}>
       <StatusBar
         barStyle={isDarkMode ? 'light-content' : 'dark-content'}
@@ -116,7 +109,6 @@ const App: () => Node = () => {
         <BugsnagTest />
       </ScrollView>
     </SafeAreaView>
-     </ErrorBoundary>
   );
 };
 

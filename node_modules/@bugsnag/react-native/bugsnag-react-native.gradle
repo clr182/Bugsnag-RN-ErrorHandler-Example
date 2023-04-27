@@ -1,0 +1,9 @@
+allprojects {
+    repositories {
+        maven { // bugsnag AAR dependencies are installed from npm
+            url "$rootDir/../node_modules/@bugsnag/react-native/android"
+        }
+    }
+}
+
+logger.warn('[Bugsnag] "bugsnag-react-native.gradle" should not applied manually. Install the Bugsnag Android Gradle Plugin and remove this from your Gradle file.')

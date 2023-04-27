@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.bugsnag",
+    "module": "bugsnag-plugin-android-anr",
+    "version": "5.28.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.32"
+          }
+        },
+        {
+          "group": "com.bugsnag",
+          "module": "bugsnag-android-core",
+          "version": {
+            "requires": "5.28.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "bugsnag-plugin-android-anr-5.28.1.aar",
+          "url": "bugsnag-plugin-android-anr-5.28.1.aar",
+          "size": 39101,
+          "sha512": "61e6964586191694b9c67902928274b86d95d138b01fa1ddf84c90fa7fd2b499dbf4ee7f980d5e83b48401b02cb9a9fd8fd5aa3206267e3fee2795c2270f10b9",
+          "sha256": "3094107ff4b30044251d19750179f34882b74fb701151a39b643544c292884a3",
+          "sha1": "5df126aca46dfbdc266be231927fe0fec46e7efe",
+          "md5": "4f06ad20ab47fdc1de24d31f442e00d8"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.32"
+          }
+        },
+        {
+          "group": "com.bugsnag",
+          "module": "bugsnag-android-core",
+          "version": {
+            "requires": "5.28.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "bugsnag-plugin-android-anr-5.28.1.aar",
+          "url": "bugsnag-plugin-android-anr-5.28.1.aar",
+          "size": 39101,
+          "sha512": "61e6964586191694b9c67902928274b86d95d138b01fa1ddf84c90fa7fd2b499dbf4ee7f980d5e83b48401b02cb9a9fd8fd5aa3206267e3fee2795c2270f10b9",
+          "sha256": "3094107ff4b30044251d19750179f34882b74fb701151a39b643544c292884a3",
+          "sha1": "5df126aca46dfbdc266be231927fe0fec46e7efe",
+          "md5": "4f06ad20ab47fdc1de24d31f442e00d8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/15bdc4e589bb64e4dcaaa166cbd58f1f/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/5201ff9114cb5287ea22cc8fe95c4562/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/8833120928278ae6b5983193eaa52965/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:bugsnag_react-native] /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/node_modules/@bugsnag/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.70.4] /Users/christian.rafferty/.gradle/caches/transforms-3/a303c48cb956dac674d310112cf6b2d3/transformed/jetified-react-native-0.70.4-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/8b88b39e1dbcbb9375e9255ec4e969bb/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:hermes-engine:0.70.4] /Users/christian.rafferty/.gradle/caches/transforms-3/a05e1346130fc1961008adb42a7b7b96/transformed/jetified-hermes-engine-0.70.4-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/1f5b57b5f63e0283701f1ad21bba149d/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/996e2170ab418b9c6a0f4542460636a2/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/5fde6d312ae039be3dcc70eb78fca0d1/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2873d6fb966ea492c3c8e320787f4503/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/christian.rafferty/.gradle/caches/transforms-3/870f82ec8950cd2b0c4d6751aa16d3a1/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/d783e9503dc3b83c4ee8f2c5ecbdfec1/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/b01d8d65212d0ae292e058715f1a70a1/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/29cc105c7edb3ef55cae7d7d75829e86/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/713ce704c4a84cf1ad6f617b483aff0c/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/68c3941eea0e570788281524733124bd/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/christian.rafferty/.gradle/caches/transforms-3/63c10f9e5c6357e512a5a16a7e8fc77b/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/dcfb1b7854de7817c2689f3b3b1ad8f9/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/c32cee6ae75aa63c2154841cccb7d680/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/5c3b3240b53afb9e6ab8ea96af6df1a0/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/fa789c424780dad7acd18548a7eed3b8/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9878e26c369d57fb5f6f5ff382baac44/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/ab828d1cd5e07b7c5f218e0078b37f43/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/christian.rafferty/.gradle/caches/transforms-3/67dac15f9d978b51cb86660e37ad664e/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/1158ba901e20ef88bca062bfbd8ec663/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/6756e7501ccfc4f0797c7587fe7a766d/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/274f4b379cd9f36b3dd69f599a7c8e75/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/1b72d22ea388b4578a6ae0e53529a9ae/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/e9804fb90d583e06a088be45462752c9/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.bugsnag:bugsnag-android:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/22f0098f28aa95b797c96894c4fc2c98/transformed/jetified-bugsnag-android-5.28.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.bugsnag:bugsnag-plugin-react-native:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/7f7f1630eab68d1bfc691cafecb884fd/transformed/jetified-bugsnag-plugin-react-native-5.28.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/89ab15acab071890d212c6d24b4831ac/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/christian.rafferty/.gradle/caches/transforms-3/5097a2496f3c39994a10c01f11c20235/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/christian.rafferty/.gradle/caches/transforms-3/bc5a858b87ecfcaa42d8af34f2ed9390/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/a0f51590c990fc183a6f19591fa025af/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/6c809bff09176f8adc93245612cfb910/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/32f64ba1533acb283e9f016d3f03ec14/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/3d239da22458fd98a4c5b688d8b2dccc/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/3d0f5bc1570a55dd06d009b7948864b5/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/7b2d26196f8f6e3f3c7e305dbca001b4/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/christian.rafferty/.gradle/caches/transforms-3/80b60e7e0b1cf49a8b63341e361e4722/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/3916cce2e1f09ec28cca904da246e3b6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/christian.rafferty/.gradle/caches/transforms-3/09485f7d9bf20a3ddf3fcc6c3c9e6667/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/989084cdf6ee6c91b51756895d53b2a9/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/christian.rafferty/.gradle/caches/transforms-3/1c7ba444398a56689597601998a8160f/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.bugsnag:bugsnag-plugin-android-anr:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/ab6a8e5731220b2312fcbfc3fece89cd/transformed/jetified-bugsnag-plugin-android-anr-5.28.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.bugsnag:bugsnag-plugin-android-ndk:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/ea2ea5b64611276609ea3168520aa8d4/transformed/jetified-bugsnag-plugin-android-ndk-5.28.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.bugsnag:bugsnag-android-core:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9c2c485aea20785251113ccde4b60bcf/transformed/jetified-bugsnag-android-core-5.28.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/christian.rafferty/.gradle/caches/transforms-3/63279140b0914f2744105298fcd767cb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/56b43f8d617799030c978b1fd9cc6e19/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/107c18d23b1e726f8abeebe71972e7ea/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/f93d939d60eeaffff166d0c4c7b9a2cb/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9c9aeda9f370665295421c4f7697dfeb/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/0886bbbff6918f4d2d4729d7409e43f3/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/cc5cced320573ca5f01cde65f1e2f52f/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/8f1c3142d313b3d5969e76864d5bfb43/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/c39ce4e7d1ca4342400b340489e588e7/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:2:3-42
+		INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:2:3-42
+		INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/15bdc4e589bb64e4dcaaa166cbd58f1f/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/15bdc4e589bb64e4dcaaa166cbd58f1f/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.bugsnag:bugsnag-android-core:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9c2c485aea20785251113ccde4b60bcf/transformed/jetified-bugsnag-android-core-5.28.1/AndroidManifest.xml:8:5-67
+MERGED from [com.bugsnag:bugsnag-android-core:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9c2c485aea20785251113ccde4b60bcf/transformed/jetified-bugsnag-android-core-5.28.1/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from [com.facebook.react:react-native:0.70.4] /Users/christian.rafferty/.gradle/caches/transforms-3/a303c48cb956dac674d310112cf6b2d3/transformed/jetified-react-native-0.70.4-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.70.4] /Users/christian.rafferty/.gradle/caches/transforms-3/a303c48cb956dac674d310112cf6b2d3/transformed/jetified-react-native-0.70.4-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/christian.rafferty/.gradle/caches/transforms-3/63c10f9e5c6357e512a5a16a7e8fc77b/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/christian.rafferty/.gradle/caches/transforms-3/63c10f9e5c6357e512a5a16a7e8fc77b/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/christian.rafferty/.gradle/caches/transforms-3/80b60e7e0b1cf49a8b63341e361e4722/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/christian.rafferty/.gradle/caches/transforms-3/80b60e7e0b1cf49a8b63341e361e4722/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/christian.rafferty/.gradle/caches/transforms-3/63279140b0914f2744105298fcd767cb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/christian.rafferty/.gradle/caches/transforms-3/63279140b0914f2744105298fcd767cb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/56b43f8d617799030c978b1fd9cc6e19/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/56b43f8d617799030c978b1fd9cc6e19/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/christian.rafferty/.gradle/caches/transforms-3/80b60e7e0b1cf49a8b63341e361e4722/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.reactnativeprojectworking.MainActivity
+ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:13:7-24:18
+	android:label
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:22:23-70
+meta-data#com.bugsnag.android.API_KEY
+ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:25:7-112
+	android:value
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:25:61-109
+	android:name
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:25:18-60
+meta-data#com.bugsnag.android.MAX_BREADCRUMBS
+ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:26:7-90
+	android:value
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:26:69-88
+	android:name
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml:26:18-68
+uses-sdk
+INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/15bdc4e589bb64e4dcaaa166cbd58f1f/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/15bdc4e589bb64e4dcaaa166cbd58f1f/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/5201ff9114cb5287ea22cc8fe95c4562/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/5201ff9114cb5287ea22cc8fe95c4562/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/8833120928278ae6b5983193eaa52965/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/8833120928278ae6b5983193eaa52965/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:bugsnag_react-native] /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/node_modules/@bugsnag/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:bugsnag_react-native] /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/node_modules/@bugsnag/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.70.4] /Users/christian.rafferty/.gradle/caches/transforms-3/a303c48cb956dac674d310112cf6b2d3/transformed/jetified-react-native-0.70.4-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.70.4] /Users/christian.rafferty/.gradle/caches/transforms-3/a303c48cb956dac674d310112cf6b2d3/transformed/jetified-react-native-0.70.4-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/8b88b39e1dbcbb9375e9255ec4e969bb/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/8b88b39e1dbcbb9375e9255ec4e969bb/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:hermes-engine:0.70.4] /Users/christian.rafferty/.gradle/caches/transforms-3/a05e1346130fc1961008adb42a7b7b96/transformed/jetified-hermes-engine-0.70.4-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-engine:0.70.4] /Users/christian.rafferty/.gradle/caches/transforms-3/a05e1346130fc1961008adb42a7b7b96/transformed/jetified-hermes-engine-0.70.4-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/1f5b57b5f63e0283701f1ad21bba149d/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/1f5b57b5f63e0283701f1ad21bba149d/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/996e2170ab418b9c6a0f4542460636a2/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/996e2170ab418b9c6a0f4542460636a2/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/5fde6d312ae039be3dcc70eb78fca0d1/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/5fde6d312ae039be3dcc70eb78fca0d1/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2873d6fb966ea492c3c8e320787f4503/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2873d6fb966ea492c3c8e320787f4503/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/christian.rafferty/.gradle/caches/transforms-3/870f82ec8950cd2b0c4d6751aa16d3a1/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/christian.rafferty/.gradle/caches/transforms-3/870f82ec8950cd2b0c4d6751aa16d3a1/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/d783e9503dc3b83c4ee8f2c5ecbdfec1/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/d783e9503dc3b83c4ee8f2c5ecbdfec1/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/b01d8d65212d0ae292e058715f1a70a1/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/b01d8d65212d0ae292e058715f1a70a1/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/29cc105c7edb3ef55cae7d7d75829e86/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/29cc105c7edb3ef55cae7d7d75829e86/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/713ce704c4a84cf1ad6f617b483aff0c/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/713ce704c4a84cf1ad6f617b483aff0c/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/68c3941eea0e570788281524733124bd/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/68c3941eea0e570788281524733124bd/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/christian.rafferty/.gradle/caches/transforms-3/63c10f9e5c6357e512a5a16a7e8fc77b/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/christian.rafferty/.gradle/caches/transforms-3/63c10f9e5c6357e512a5a16a7e8fc77b/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/dcfb1b7854de7817c2689f3b3b1ad8f9/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/dcfb1b7854de7817c2689f3b3b1ad8f9/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/c32cee6ae75aa63c2154841cccb7d680/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/c32cee6ae75aa63c2154841cccb7d680/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/5c3b3240b53afb9e6ab8ea96af6df1a0/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/5c3b3240b53afb9e6ab8ea96af6df1a0/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/fa789c424780dad7acd18548a7eed3b8/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/fa789c424780dad7acd18548a7eed3b8/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9878e26c369d57fb5f6f5ff382baac44/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9878e26c369d57fb5f6f5ff382baac44/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/ab828d1cd5e07b7c5f218e0078b37f43/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/ab828d1cd5e07b7c5f218e0078b37f43/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/christian.rafferty/.gradle/caches/transforms-3/67dac15f9d978b51cb86660e37ad664e/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/christian.rafferty/.gradle/caches/transforms-3/67dac15f9d978b51cb86660e37ad664e/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/1158ba901e20ef88bca062bfbd8ec663/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/1158ba901e20ef88bca062bfbd8ec663/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/6756e7501ccfc4f0797c7587fe7a766d/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/6756e7501ccfc4f0797c7587fe7a766d/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/274f4b379cd9f36b3dd69f599a7c8e75/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/274f4b379cd9f36b3dd69f599a7c8e75/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/1b72d22ea388b4578a6ae0e53529a9ae/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/1b72d22ea388b4578a6ae0e53529a9ae/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/e9804fb90d583e06a088be45462752c9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/e9804fb90d583e06a088be45462752c9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.bugsnag:bugsnag-android:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/22f0098f28aa95b797c96894c4fc2c98/transformed/jetified-bugsnag-android-5.28.1/AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-android:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/22f0098f28aa95b797c96894c4fc2c98/transformed/jetified-bugsnag-android-5.28.1/AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-plugin-react-native:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/7f7f1630eab68d1bfc691cafecb884fd/transformed/jetified-bugsnag-plugin-react-native-5.28.1/AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-plugin-react-native:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/7f7f1630eab68d1bfc691cafecb884fd/transformed/jetified-bugsnag-plugin-react-native-5.28.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/89ab15acab071890d212c6d24b4831ac/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/89ab15acab071890d212c6d24b4831ac/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/christian.rafferty/.gradle/caches/transforms-3/5097a2496f3c39994a10c01f11c20235/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/christian.rafferty/.gradle/caches/transforms-3/5097a2496f3c39994a10c01f11c20235/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/christian.rafferty/.gradle/caches/transforms-3/bc5a858b87ecfcaa42d8af34f2ed9390/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/christian.rafferty/.gradle/caches/transforms-3/bc5a858b87ecfcaa42d8af34f2ed9390/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/a0f51590c990fc183a6f19591fa025af/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/a0f51590c990fc183a6f19591fa025af/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/6c809bff09176f8adc93245612cfb910/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/6c809bff09176f8adc93245612cfb910/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/32f64ba1533acb283e9f016d3f03ec14/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/32f64ba1533acb283e9f016d3f03ec14/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/3d239da22458fd98a4c5b688d8b2dccc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/3d239da22458fd98a4c5b688d8b2dccc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/3d0f5bc1570a55dd06d009b7948864b5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/3d0f5bc1570a55dd06d009b7948864b5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/7b2d26196f8f6e3f3c7e305dbca001b4/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/7b2d26196f8f6e3f3c7e305dbca001b4/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/christian.rafferty/.gradle/caches/transforms-3/80b60e7e0b1cf49a8b63341e361e4722/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/christian.rafferty/.gradle/caches/transforms-3/80b60e7e0b1cf49a8b63341e361e4722/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/3916cce2e1f09ec28cca904da246e3b6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/3916cce2e1f09ec28cca904da246e3b6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/christian.rafferty/.gradle/caches/transforms-3/09485f7d9bf20a3ddf3fcc6c3c9e6667/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/christian.rafferty/.gradle/caches/transforms-3/09485f7d9bf20a3ddf3fcc6c3c9e6667/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/989084cdf6ee6c91b51756895d53b2a9/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/989084cdf6ee6c91b51756895d53b2a9/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/christian.rafferty/.gradle/caches/transforms-3/1c7ba444398a56689597601998a8160f/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/christian.rafferty/.gradle/caches/transforms-3/1c7ba444398a56689597601998a8160f/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.bugsnag:bugsnag-plugin-android-anr:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/ab6a8e5731220b2312fcbfc3fece89cd/transformed/jetified-bugsnag-plugin-android-anr-5.28.1/AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-plugin-android-anr:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/ab6a8e5731220b2312fcbfc3fece89cd/transformed/jetified-bugsnag-plugin-android-anr-5.28.1/AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-plugin-android-ndk:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/ea2ea5b64611276609ea3168520aa8d4/transformed/jetified-bugsnag-plugin-android-ndk-5.28.1/AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-plugin-android-ndk:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/ea2ea5b64611276609ea3168520aa8d4/transformed/jetified-bugsnag-plugin-android-ndk-5.28.1/AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-android-core:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9c2c485aea20785251113ccde4b60bcf/transformed/jetified-bugsnag-android-core-5.28.1/AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-android-core:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9c2c485aea20785251113ccde4b60bcf/transformed/jetified-bugsnag-android-core-5.28.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/christian.rafferty/.gradle/caches/transforms-3/63279140b0914f2744105298fcd767cb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/christian.rafferty/.gradle/caches/transforms-3/63279140b0914f2744105298fcd767cb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/56b43f8d617799030c978b1fd9cc6e19/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/56b43f8d617799030c978b1fd9cc6e19/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/107c18d23b1e726f8abeebe71972e7ea/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/107c18d23b1e726f8abeebe71972e7ea/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/f93d939d60eeaffff166d0c4c7b9a2cb/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/f93d939d60eeaffff166d0c4c7b9a2cb/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9c9aeda9f370665295421c4f7697dfeb/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9c9aeda9f370665295421c4f7697dfeb/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/0886bbbff6918f4d2d4729d7409e43f3/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/0886bbbff6918f4d2d4729d7409e43f3/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/cc5cced320573ca5f01cde65f1e2f52f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/cc5cced320573ca5f01cde65f1e2f52f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/8f1c3142d313b3d5969e76864d5bfb43/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/christian.rafferty/.gradle/caches/transforms-3/8f1c3142d313b3d5969e76864d5bfb43/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/c39ce4e7d1ca4342400b340489e588e7/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/christian.rafferty/.gradle/caches/transforms-3/c39ce4e7d1ca4342400b340489e588e7/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/christian.rafferty/Desktop/rn/Bugsnag-RN-ErrorHandler-Example/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/15bdc4e589bb64e4dcaaa166cbd58f1f/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/christian.rafferty/.gradle/caches/transforms-3/15bdc4e589bb64e4dcaaa166cbd58f1f/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/56b43f8d617799030c978b1fd9cc6e19/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/56b43f8d617799030c978b1fd9cc6e19/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/christian.rafferty/.gradle/caches/transforms-3/2ddf5cbb4f5a997504233185966b6573/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.bugsnag:bugsnag-android-core:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9c2c485aea20785251113ccde4b60bcf/transformed/jetified-bugsnag-android-core-5.28.1/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.bugsnag:bugsnag-android-core:5.28.1] /Users/christian.rafferty/.gradle/caches/transforms-3/9c2c485aea20785251113ccde4b60bcf/transformed/jetified-bugsnag-android-core-5.28.1/AndroidManifest.xml:9:22-76
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/christian.rafferty/.gradle/caches/transforms-3/249628643ce4375cb1e34c609707486d/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

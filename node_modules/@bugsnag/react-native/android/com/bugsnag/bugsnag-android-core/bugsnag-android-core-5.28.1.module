@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.bugsnag",
+    "module": "bugsnag-android-core",
+    "version": "5.28.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.32"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "bugsnag-android-core-5.28.1.aar",
+          "url": "bugsnag-android-core-5.28.1.aar",
+          "size": 613244,
+          "sha512": "3b42c089ebaaf1502f1b44ca9ed1b706ec862fd455708fac496d1a55ea7ef43126a9d2f5e0a66b8939c6b110147247484c404d0217d12e1c0a2e2de53f9883ac",
+          "sha256": "ca4b51ec70f06331f62612af55ecf0b2117ae92554f242c8c3289e29499db384",
+          "sha1": "4797b57e939be4690f54c3dc20cc5c1df150c1a3",
+          "md5": "96e755d45b6f9e73d4ffef9e830a88a7"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.32"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "bugsnag-android-core-5.28.1.aar",
+          "url": "bugsnag-android-core-5.28.1.aar",
+          "size": 613244,
+          "sha512": "3b42c089ebaaf1502f1b44ca9ed1b706ec862fd455708fac496d1a55ea7ef43126a9d2f5e0a66b8939c6b110147247484c404d0217d12e1c0a2e2de53f9883ac",
+          "sha256": "ca4b51ec70f06331f62612af55ecf0b2117ae92554f242c8c3289e29499db384",
+          "sha1": "4797b57e939be4690f54c3dc20cc5c1df150c1a3",
+          "md5": "96e755d45b6f9e73d4ffef9e830a88a7"
+        }
+      ]
+    }
+  ]
+}

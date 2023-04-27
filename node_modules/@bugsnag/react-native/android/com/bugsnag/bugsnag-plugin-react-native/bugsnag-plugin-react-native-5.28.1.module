@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.bugsnag",
+    "module": "bugsnag-plugin-react-native",
+    "version": "5.28.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.32"
+          }
+        },
+        {
+          "group": "com.bugsnag",
+          "module": "bugsnag-android-core",
+          "version": {
+            "requires": "5.28.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "bugsnag-plugin-react-native-5.28.1.aar",
+          "url": "bugsnag-plugin-react-native-5.28.1.aar",
+          "size": 37865,
+          "sha512": "abc846f5ef38641be437ecb9d5a5ed8a5cf4bbae0a6508d712eb6e1624df39b7fa13411c8686c832daaf21160c573b13cd40bbc635bbfe84fb61c485a77694b1",
+          "sha256": "dc8e9ae1c3646d565e0a3bb55684caff80a4bd114ed9e5db9d8379df305591ac",
+          "sha1": "6cadd53ce61207ed0ac8d17242143ac092d23542",
+          "md5": "18597ddb7acb3ab4057aa85d632669b0"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.32"
+          }
+        },
+        {
+          "group": "com.bugsnag",
+          "module": "bugsnag-android-core",
+          "version": {
+            "requires": "5.28.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "bugsnag-plugin-react-native-5.28.1.aar",
+          "url": "bugsnag-plugin-react-native-5.28.1.aar",
+          "size": 37865,
+          "sha512": "abc846f5ef38641be437ecb9d5a5ed8a5cf4bbae0a6508d712eb6e1624df39b7fa13411c8686c832daaf21160c573b13cd40bbc635bbfe84fb61c485a77694b1",
+          "sha256": "dc8e9ae1c3646d565e0a3bb55684caff80a4bd114ed9e5db9d8379df305591ac",
+          "sha1": "6cadd53ce61207ed0ac8d17242143ac092d23542",
+          "md5": "18597ddb7acb3ab4057aa85d632669b0"
+        }
+      ]
+    }
+  ]
+}
